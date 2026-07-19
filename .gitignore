@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# 大数据文件不上传（可本地生成）
+data/raw/*.csv
+data/processed/*.csv
+data/processed/*.db
+
+# 可选：若希望仓库更轻，也可忽略 output 下大文件
+# output/figures/*.png
+# output/reports/*.csv

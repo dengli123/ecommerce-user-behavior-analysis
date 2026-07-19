@@ -1,0 +1,13 @@
+原始行数: 1,053,000
+去重后: 1,050,000（删除 3,000）
+非法 behavior 行数: 500
+缺失值统计(处理前):
+  - category: 2,000
+  - price: 1,500
+  - province: 1,000
+价格异常行数: 1,500
+清洗后行数: 1,048,000
+总删除比例: 0.47%
+用户数: 72,481
+商品数: 12,000
+清洗数据已保存: C:\Users\邓颖泽\Desktop\ecommerce-user-behavior-analysis\data\processed\user_behavior_clean.csv
